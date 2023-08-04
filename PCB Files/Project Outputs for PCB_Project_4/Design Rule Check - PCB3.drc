@@ -1,0 +1,162 @@
+Protel Design System Design Rule Check
+PCB File : E:\campus\2.sem2\Design\altium\PCB_Project_4\PCB3.PcbDoc
+Date     : 10/6/2022
+Time     : 1:12:50 PM
+
+Processing Rule : Clearance Constraint (Gap=1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2(147.32mm,103.652mm) on Multi-Layer And Pad C2-1(147.447mm,97.028mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad U1-3(139.954mm,98.044mm) on Multi-Layer And Pad C2-2(147.447mm,94.528mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C4-2(94.742mm,80.879mm) on Multi-Layer And Pad C3-2(100.203mm,78.379mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-2(100.203mm,78.379mm) on Multi-Layer And Pad LS1-2(100.711mm,88.813mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(126.873mm,78.974mm) on Multi-Layer And Pad P1-4(128.04mm,57.658mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(126.873mm,78.974mm) on Multi-Layer And Pad P3-3(132.969mm,81.788mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-22(121.666mm,79.121mm) on Multi-Layer And Pad C5-1(126.873mm,78.974mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad J2-4(104.902mm,59.944mm) on Multi-Layer And Pad U2-7(114.046mm,79.121mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-5(104.902mm,57.404mm) on Multi-Layer And Pad P1-4(128.04mm,57.658mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP1_1 Between Pad U2-24(121.666mm,84.201mm) on Multi-Layer And Pad P1-1(128.04mm,65.278mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP1_2 Between Pad U2-23(121.666mm,81.661mm) on Multi-Layer And Pad P1-2(128.04mm,62.738mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad P1-3(128.04mm,60.198mm) on Multi-Layer And Pad U1-1(139.954mm,103.124mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad P2-3(131.826mm,94.639mm) on Multi-Layer And Pad P3-1(132.969mm,86.868mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad P2-3(131.826mm,94.639mm) on Multi-Layer And Pad U1-3(139.954mm,98.044mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad P3-3(132.969mm,81.788mm) on Multi-Layer And Pad P2-4(134.366mm,94.639mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad P2-4(134.366mm,94.639mm) on Multi-Layer And Pad U1-2(139.954mm,100.584mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad U2-20(121.666mm,74.041mm) on Multi-Layer And Pad P3-1(132.969mm,86.868mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad R1-2(109.601mm,88.265mm) on Multi-Layer And Pad U2-7(114.046mm,79.121mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC4_1 Between Pad Y1-2(107.315mm,74.041mm) on Multi-Layer And Pad U2-10(114.046mm,71.501mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad U2-7(114.046mm,79.121mm) on Multi-Layer And Pad U2-20(121.666mm,74.041mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-8(114.046mm,76.581mm) on Multi-Layer And Pad U2-22(121.666mm,79.121mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC3_1 Between Pad Y1-1(107.315mm,78.921mm) on Multi-Layer And Pad U2-9(114.046mm,74.041mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Track (155.575mm,51.435mm)(155.575mm,111.76mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (87.63mm,111.76mm)(155.575mm,111.76mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (87.63mm,111.76mm)(87.63mm,51.435mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (87.63mm,51.435mm)(155.575mm,51.435mm) on Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :26
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1.2mm) (Preferred=1mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('+5') or InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.254mm) Between Arc (114.046mm,95.661mm) on Top Overlay And Pad U2-1(114.046mm,94.361mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Arc (126.873mm,80.149mm) on Top Overlay And Pad C5-1(126.873mm,78.974mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Arc (147.32mm,107.327mm) on Top Overlay And Pad C1-1(147.32mm,106.152mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Arc (147.447mm,98.203mm) on Top Overlay And Pad C2-1(147.447mm,97.028mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C1-1(147.32mm,106.152mm) on Multi-Layer And Track (146.02mm,102.902mm)(146.02mm,106.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C1-1(147.32mm,106.152mm) on Multi-Layer And Track (146.02mm,106.902mm)(146.295mm,106.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C1-1(147.32mm,106.152mm) on Multi-Layer And Track (148.345mm,106.902mm)(148.62mm,106.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C1-1(147.32mm,106.152mm) on Multi-Layer And Track (148.62mm,102.902mm)(148.62mm,106.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C1-2(147.32mm,103.652mm) on Multi-Layer And Track (146.02mm,102.902mm)(146.02mm,106.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad C1-2(147.32mm,103.652mm) on Multi-Layer And Track (146.02mm,102.902mm)(146.295mm,102.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad C1-2(147.32mm,103.652mm) on Multi-Layer And Track (148.345mm,102.902mm)(148.62mm,102.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C1-2(147.32mm,103.652mm) on Multi-Layer And Track (148.62mm,102.902mm)(148.62mm,106.902mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C2-1(147.447mm,97.028mm) on Multi-Layer And Track (146.147mm,93.778mm)(146.147mm,97.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C2-1(147.447mm,97.028mm) on Multi-Layer And Track (146.147mm,97.778mm)(146.422mm,97.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C2-1(147.447mm,97.028mm) on Multi-Layer And Track (148.472mm,97.778mm)(148.747mm,97.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C2-1(147.447mm,97.028mm) on Multi-Layer And Track (148.747mm,93.778mm)(148.747mm,97.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C2-2(147.447mm,94.528mm) on Multi-Layer And Track (146.147mm,93.778mm)(146.147mm,97.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad C2-2(147.447mm,94.528mm) on Multi-Layer And Track (146.147mm,93.778mm)(146.422mm,93.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad C2-2(147.447mm,94.528mm) on Multi-Layer And Track (148.472mm,93.778mm)(148.747mm,93.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C2-2(147.447mm,94.528mm) on Multi-Layer And Track (148.747mm,93.778mm)(148.747mm,97.778mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C3-1(100.203mm,80.879mm) on Multi-Layer And Track (101.178mm,81.429mm)(101.453mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C3-1(100.203mm,80.879mm) on Multi-Layer And Track (101.453mm,77.829mm)(101.453mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C3-1(100.203mm,80.879mm) on Multi-Layer And Track (98.953mm,77.829mm)(98.953mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C3-1(100.203mm,80.879mm) on Multi-Layer And Track (98.953mm,81.429mm)(99.228mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.019mm < 0.254mm) Between Pad C3-2(100.203mm,78.379mm) on Multi-Layer And Track (101.178mm,77.829mm)(101.453mm,77.829mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.019mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C3-2(100.203mm,78.379mm) on Multi-Layer And Track (101.453mm,77.829mm)(101.453mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C3-2(100.203mm,78.379mm) on Multi-Layer And Track (98.953mm,77.829mm)(98.953mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.019mm < 0.254mm) Between Pad C3-2(100.203mm,78.379mm) on Multi-Layer And Track (98.953mm,77.829mm)(99.228mm,77.829mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.019mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C4-1(94.742mm,78.379mm) on Multi-Layer And Track (93.492mm,77.829mm)(93.492mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C4-1(94.742mm,78.379mm) on Multi-Layer And Track (93.492mm,77.829mm)(93.767mm,77.829mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C4-1(94.742mm,78.379mm) on Multi-Layer And Track (95.717mm,77.829mm)(95.992mm,77.829mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C4-1(94.742mm,78.379mm) on Multi-Layer And Track (95.992mm,77.829mm)(95.992mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C4-2(94.742mm,80.879mm) on Multi-Layer And Track (93.492mm,77.829mm)(93.492mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.019mm < 0.254mm) Between Pad C4-2(94.742mm,80.879mm) on Multi-Layer And Track (93.492mm,81.429mm)(93.767mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.019mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.019mm < 0.254mm) Between Pad C4-2(94.742mm,80.879mm) on Multi-Layer And Track (95.717mm,81.429mm)(95.992mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.019mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.254mm) Between Pad C4-2(94.742mm,80.879mm) on Multi-Layer And Track (95.992mm,77.829mm)(95.992mm,81.429mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.15mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C5-1(126.873mm,78.974mm) on Multi-Layer And Track (125.573mm,75.724mm)(125.573mm,79.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C5-1(126.873mm,78.974mm) on Multi-Layer And Track (125.573mm,79.724mm)(125.848mm,79.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C5-1(126.873mm,78.974mm) on Multi-Layer And Track (127.898mm,79.724mm)(128.173mm,79.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C5-1(126.873mm,78.974mm) on Multi-Layer And Track (128.173mm,75.724mm)(128.173mm,79.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C5-2(126.873mm,76.474mm) on Multi-Layer And Track (125.573mm,75.724mm)(125.573mm,79.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad C5-2(126.873mm,76.474mm) on Multi-Layer And Track (125.573mm,75.724mm)(125.848mm,75.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad C5-2(126.873mm,76.474mm) on Multi-Layer And Track (127.898mm,75.724mm)(128.173mm,75.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad C5-2(126.873mm,76.474mm) on Multi-Layer And Track (128.173mm,75.724mm)(128.173mm,79.724mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.235mm < 0.254mm) Between Pad J1-1(109.093mm,102.997mm) on Multi-Layer And Track (105.093mm,101.662mm)(110.553mm,101.662mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.235mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.235mm < 0.254mm) Between Pad J1-1(109.093mm,102.997mm) on Multi-Layer And Track (105.093mm,104.332mm)(110.553mm,104.332mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.235mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.235mm < 0.254mm) Between Pad J1-2(106.553mm,102.997mm) on Multi-Layer And Track (105.093mm,101.662mm)(110.553mm,101.662mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.235mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.235mm < 0.254mm) Between Pad J1-2(106.553mm,102.997mm) on Multi-Layer And Track (105.093mm,104.332mm)(110.553mm,104.332mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.235mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad R1-1(109.601mm,95.885mm) on Multi-Layer And Track (108.839mm,94.615mm)(110.363mm,94.615mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R1-1(109.601mm,95.885mm) on Multi-Layer And Track (109.601mm,94.615mm)(109.601mm,94.844mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad R1-2(109.601mm,88.265mm) on Multi-Layer And Track (108.839mm,89.535mm)(109.601mm,89.535mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R1-2(109.601mm,88.265mm) on Multi-Layer And Track (109.601mm,89.306mm)(109.601mm,89.535mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad R1-2(109.601mm,88.265mm) on Multi-Layer And Track (109.601mm,89.535mm)(110.363mm,89.535mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-1(114.046mm,94.361mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.148mm < 0.254mm) Between Pad U2-1(114.046mm,94.361mm) on Multi-Layer And Track (115.206mm,95.551mm)(117.221mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.148mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-10(114.046mm,71.501mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-11(114.046mm,68.961mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-12(114.046mm,66.421mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-13(114.046mm,63.881mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-14(114.046mm,61.341mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-15(121.666mm,61.341mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-16(121.666mm,63.881mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-17(121.666mm,66.421mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-18(121.666mm,68.961mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-19(121.666mm,71.501mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-2(114.046mm,91.821mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-20(121.666mm,74.041mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-21(121.666mm,76.581mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-22(121.666mm,79.121mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-23(121.666mm,81.661mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-24(121.666mm,84.201mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-25(121.666mm,86.741mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-26(121.666mm,89.281mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-27(121.666mm,91.821mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-28(121.666mm,94.361mm) on Multi-Layer And Track (120.506mm,60.151mm)(120.506mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-3(114.046mm,89.281mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-4(114.046mm,86.741mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-5(114.046mm,84.201mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-6(114.046mm,81.661mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-7(114.046mm,79.121mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-8(114.046mm,76.581mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.254mm) Between Pad U2-9(114.046mm,74.041mm) on Multi-Layer And Track (115.206mm,60.151mm)(115.206mm,95.551mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
+Rule Violations :82
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 108
+Waived Violations : 0
+Time Elapsed        : 00:00:02
