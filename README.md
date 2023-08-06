@@ -7,8 +7,14 @@ Amidst the scarcity and rising costs of gas cylinders in Sri Lanka, many househo
 To address these drawbacks, the idea is to develop a more advanced hearth with a DC fan that automatically regulates the heat once the user inputs their desired temperature. This innovation aims to save time and effort for consumers and make cooking more convenient.
 
 To validate the demand for such a product, a survey was conducted among potential users. The results indicated that over 50% of respondents were significantly affected by the gas shortage, making an alternative like this hearth desirable. Most participants showed positive interest in purchasing the product, and none felt it was unnecessary.
+This Smart Hearth represents the culmination of our team's passion for innovation and dedication to addressing real-world challenges. Through meticulous design, seamless integration of advanced features, and careful consideration of user needs, we have created a product that promises to revolutionize cooking experiences and offer a viable alternative amidst the gas cylinder shortage. With the support of positive survey feedback, we are confident that our Smart Hearth has the potential to make a significant impact, enhancing convenience and sustainability for households seeking a smarter way to cook.
 
-Based on user expectations, the design was tailored to fulfill their needs. Regarding pricing, the initial survey suggested a range of Rs 3,000 to Rs 5,000, but due to import bans and inflation, the market price for similar products has increased to around Rs 7,000 to Rs 11,000. Therefore, the final product may need to be priced at approximately Rs 8,000 or higher.
+
+
+
+
+
+
 
 
 
