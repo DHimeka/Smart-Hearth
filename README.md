@@ -1,6 +1,8 @@
 # Smart Hearth Project 
 
 ![Smart Hearth Logo](images/smart-hearth-logo.png)
+
+
 In the EN2091 Laboratory Practice and Projects during our third semester, our team successfully designed and developed a fully functional function generator with laboratory-grade capabilities. By harnessing the potential of basic electronic components, we achieved precise waveform generation and control using opamps, transistors, resistors, capacitors, and potentiometers. Our research and design enabled the implementation of analog electronic calculations, resulting in the generation of sine, square, triangular, sawtooth, and PWM waveforms with accurate frequency control from 20Hz to 20kHz. A crucial aspect of the project was robust control over amplitude and DC, which we accomplished through feedback mechanisms and precise opamp configurations, allowing users to manipulate output voltage from 0V to 20V. Despite facing various challenges during the project, including iterative circuit refinement and enclosure and PCB fabrication, the final outcome was impressive. The fully functional function generator showcased a harmonious fusion of creative circuit design and engineering to its finest. We take immense pride in this accomplishment, confident in the potential of our function generator to make a significant impact in laboratory settings and beyond.
 
 ## Table of Contents
