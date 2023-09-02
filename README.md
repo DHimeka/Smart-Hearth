@@ -10,6 +10,40 @@ To validate the demand for such a product, a survey was conducted among potentia
 This Smart Hearth represents the culmination of our team's passion for innovation and dedication to addressing real-world challenges. Through meticulous design, seamless integration of advanced features, and careful consideration of user needs, we have created a product that promises to revolutionize cooking experiences and offer a viable alternative amidst the gas cylinder shortage. With the support of positive survey feedback, we are confident that our Smart Hearth has the potential to make a significant impact, enhancing convenience and sustainability for households seeking a smarter way to cook.
 
 
+# Smart Hearth Project
+
+![Smart Hearth Logo](images/smart-hearth-logo.png)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+
+
+## Introduction
+
+The Smart Hearth Project is a home automation solution that enhances your fireplace experience. It integrates modern technology with traditional fireplace aesthetics to provide a safe, convenient, and eco-friendly way to manage your hearth. This README.md file serves as a guide to set up and use the Smart Hearth system.
+
+## Features
+
+- **Remote Control:** Control your fireplace remotely using a mobile app or voice commands.
+- **Safety:** Smart sensors monitor the temperature and ensure safe operation.
+- **Energy Efficiency:** Optimize heating and reduce energy consumption.
+- **Customization:** Personalize your fireplace settings to suit your preferences.
+- **Logs and Statistics:** Keep track of usage and energy savings.
+
+## Installation
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- A compatible fireplace with a control interface.
+- Raspberry Pi or similar single-board computer.
+- Smart sensors (temperature and CO2 sensors).
+- Mobile device with the Smart Hearth app (iOS/Android).
 
 
 
