@@ -12,7 +12,7 @@ This Smart Hearth represents the culmination of our team's passion for innovatio
 
 # Smart Hearth Project
 
-![Smart Hearth Logo](images/smart-hearth-logo.png)
+![Smart Hearth Logo](images/Intro.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
